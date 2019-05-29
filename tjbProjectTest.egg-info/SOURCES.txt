@@ -1,0 +1,8 @@
+README.md
+setup.py
+tjbProjectTest/__init__.py
+tjbProjectTest/main.py
+tjbProjectTest.egg-info/PKG-INFO
+tjbProjectTest.egg-info/SOURCES.txt
+tjbProjectTest.egg-info/dependency_links.txt
+tjbProjectTest.egg-info/top_level.txt
